@@ -1,0 +1,11 @@
+/- vite es una herramienta de creacion de proyectos fronted
+
+
+1- npm create vite@latest
+        vanilla -> js
+2- npm i
+
+3- npm run dev
+
+
+http://localhost:5173/
